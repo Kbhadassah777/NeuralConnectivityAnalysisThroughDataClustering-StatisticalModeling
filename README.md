@@ -6,9 +6,11 @@ Leveraging data clustering and statistical modeling, this project analyzes react
 **Scripts and Analysis**
 analysis.py: A Python script for data preprocessing, statistical analysis using ANOVA, and data visualization, highlighting the preprocessing steps and clustering techniques applied.
 final.m: A MATLAB script focused on advanced statistical analysis, including outlier detection and reaction time evaluation under various conditions.
+
 **Key Insights**
 Our analyses highlight significant findings regarding reaction times influenced by stimulus condition, stimulation group, and time (pre vs. post TNS).
 The project underscores the potential of TNS in modulating neural connectivity and optimizing sensory integration, with implications for neurological research and therapy.
+
 **Referential Credits**
 The methodologies and analytical approach in this project draw upon the findings and theories presented in the paper "Examining the Effects of Trigeminal Nerve Stimulation on Reaction Times in a Multisensory Integration Task" by Tyler Billingsly, Sean Stanek, & Dr. Christopher Buneo. Their work provided valuable insights into multisensory integration and the effects of TNS, serving as a foundational reference for this study.
 
@@ -18,7 +20,6 @@ Key Libraries/Tools: Pandas, NumPy, Matplotlib, SciPy, StatsModels (Python); MAT
 Usage
 
 **To explore the data and replicate the analysis:**
-
 Ensure Python and MATLAB are installed on your system.
 Install the required Python libraries.
 Clone this repository and execute the scripts to perform your analysis.
