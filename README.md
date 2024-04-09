@@ -6,7 +6,9 @@ Leveraging data clustering and statistical modeling, this project analyzes react
 
 
 **Scripts and Analysis**
+
 analysis.py: A Python script for data preprocessing, statistical analysis using ANOVA, and data visualization, highlighting the preprocessing steps and clustering techniques applied.
+
 final.m: A MATLAB script focused on advanced statistical analysis, including outlier detection and reaction time evaluation under various conditions.
 
 
